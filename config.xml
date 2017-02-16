@@ -1,0 +1,11 @@
+<widget id="com.maspublicopy.cartelera" version="0.0.1">
+    <name>Cartelera Mas Publico</name>
+    <description>
+        Cartelera escénica.
+    </description>
+    <author email="karinaschaerer@gmail.com" href="http://www.dibego.co">
+        Karina Schaerer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
